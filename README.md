@@ -7,3 +7,5 @@ Pricing European Up-and-Out options using Monte Carlo Simulation
 2. Implementing iterations for the Monte Carlo Simulation; simulating stock prices using the Geometric Brownian Motion
 3. Calculating the payoffs and option price
 4. Plotting the simulated stock prices
+
+[Link to the Jupyter Notebook](https://github.com/BrianSylvesterOkusi/Pricing-European-Up-and-Out-options-using-Monte-Carlo-Simulation/blob/main/Pricing%20barrier%20option%20using%20Monte%20Carlo%20Simulation.ipynb)
